@@ -29,6 +29,6 @@ https://github.com/valegb13/Proyecto-IA/blob/main/TCOYC.ipynb
   -Regresión lineal.
   
 ***
-##Video:
+## Video:
 
 https://youtu.be/Zf5bs4uyEP8
